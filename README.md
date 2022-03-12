@@ -1,1 +1,0 @@
-# python-28-pratice
